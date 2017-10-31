@@ -9,9 +9,28 @@
   * [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=en)
     * (Currently free) communication service for Discord users.
     * Spefically designed for gamers to replace Ventrilo.
+  * [Ring](https://play.google.com/store/apps/details?id=com.ringapp&hl=en)
+    * Monitor [Ring's Security Cameras and Video Doorbells](https://ring.com/).
   * [Skype](https://play.google.com/store/apps/details?id=com.skype.raider&hl=en)
     * Communication service for Skype users.
     * _I only use this because my company uses this._
+
+## Entertainment
+  * [Netflix](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en)
+    * Watch TV episodes and movies (requires monthly subscription).
+
+## Health and Fitness
+  * [Strava Running and Cycling](https://play.google.com/store/apps/details?id=com.strava&hl=en)
+    * Track running and cycling activity with GPS.
+    * Follow friends and view their activity.
+
+## Lifestyle
+  * [Nest](https://play.google.com/store/apps/details?id=com.nest.android&hl=en)
+    * Control your [Nest Learning Thermostat](https://nest.com/).
+
+## News
+  * [reddit is fun (gold)](https://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation&hl=en)
+    * A fast, clean, intuitive Android app for browsing reddit.
 
 ## Productivity
   * [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=en)
@@ -19,6 +38,10 @@
     * Compress/decompress ZIP and unpack RAR files.
     * Built-in picture and text viewer.
     * Quickly find music, picture, and video files.
+  * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=en)
+    * Password manager and generator.
+    * Autofills web browsers and app logins.
+    * Fingerprint support.
   * [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android&hl=en)
     * **Replaced by Hangouts**: Allows you to send/receive SMS messages from your computer.
     * **Replaced by Pushover**: Receives notifications.
@@ -31,6 +54,8 @@
     * **Tip**: [Add the Facebook website to your home screen.](http://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/)
   * [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android&hl=en)
     * Share/post/edit/discover photos/videos.
+  * [Snapchat](https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en)
+    * Send/receive photos/videos.
 
 ## Tools
   * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en)
