@@ -15,6 +15,11 @@
     * Communication service for Skype users.
     * _I only use this because my company uses this._
 
+## Education
+  * [Graph 89 Free](https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu&hl=en)
+    * [TI-89 Calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-89-titanium) emulator.
+    * [Download](http://www.ticalc.org/programming/emulators/romdump.html) a TI-89 (Titanium) ROM image.
+
 ## Entertainment
   * [Netflix](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en)
     * Watch TV episodes and movies (requires monthly subscription).
