@@ -50,7 +50,7 @@ if __FILE__ == $0
 		exit 1
 	end
 
-	out = "#{File.basename(file, File.extname(file))}.cfg"
+	out = "#{File.dirname(file)}/#{File.basename(file, File.extname(file))}.cfg"
 
 	hash = YAML.load(File.read(file))
 	File.write(out, hash.to_cfg.flatten.join("\n"))
