@@ -12,7 +12,7 @@
   * [Pipe Logic](http://www.linusakesson.net/programming/pipelogic/)
     * A "delightfully useless epiphany" where
       * `/dev/zero` is an infinite supply of electrons
-      * `/dev/null` is has an infinite appetite for electrons
+      * `/dev/null` has an infinite appetite for electrons
   * [Linux Kernel Linked Lists](https://isis.poly.edu/kulesh/stuff/src/klist/)
     * How the Linux Kernel implements linked lists
 
