@@ -18,4 +18,6 @@
 
 ## reddit
   * [What are some company secrets you can now reveal since you don’t work for the company anymore?](https://www.reddit.com/r/AskReddit/comments/7vu5pj/what_are_some_company_secrets_you_can_now_reveal/)
+  * [What did your job want you to hide from customers?](https://www.reddit.com/r/AskReddit/comments/6yj6iw/what_did_your_job_want_you_to_hide_from_customers/)
+  * [The Economics of Churning: who pays for the rewards?](https://www.reddit.com/r/churning/comments/5oucdq/the_economics_of_churning_who_pays_for_the_rewards/)
 
