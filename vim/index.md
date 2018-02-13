@@ -3,6 +3,7 @@
 
 ## Cheatsheets
   * [Vimscript Cheatsheet](https://devhints.io/vimscript)
+  * [Vim Cheatsheet - Everything you should know in one single file](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
 
 ## Random Useful Things
   * [Quick Command in Insert Mode](http://vim.wikia.com/wiki/Quick_command_in_insert_mode)

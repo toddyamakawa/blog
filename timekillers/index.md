@@ -16,3 +16,6 @@
   * [Linux Kernel Linked Lists](https://isis.poly.edu/kulesh/stuff/src/klist/)
     * How the Linux Kernel implements linked lists
 
+## reddit
+  * [What are some company secrets you can now reveal since you don’t work for the company anymore?](https://www.reddit.com/r/AskReddit/comments/7vu5pj/what_are_some_company_secrets_you_can_now_reveal/)
+
