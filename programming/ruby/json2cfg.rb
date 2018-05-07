@@ -1,6 +1,12 @@
 #!/usr/bin/env ruby
 require 'yaml'
 
+class Object
+	def to_cfg(parent = '')
+		return ["#{parent}=#{self.to_s}"]
+	end
+end
+
 class Fixnum
 	def to_cfg(parent = '')
 		return ["#{parent}=#{self.to_s}"]
