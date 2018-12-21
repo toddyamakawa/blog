@@ -16,4 +16,7 @@
   * [Things About Vim I Wish I Knew Earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
   * [Why I love Vim: Its the lesser-known features that make it so amazing](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
   * [incsearch.vim is Dead](https://medium.com/@haya14busa/incsearch-vim-is-dead-long-live-incsearch-2b7070d55250)
+  * [The Power of Diff](https://vimways.org/2018/the-power-of-diff/)
+    * `:set diffopt+=algorithm:patience`
+    * `:set diffopt+=indent-heuristic`
 
