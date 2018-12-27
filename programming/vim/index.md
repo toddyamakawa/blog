@@ -19,4 +19,7 @@
   * [The Power of Diff](https://vimways.org/2018/the-power-of-diff/)
     * `:set diffopt+=algorithm:patience`
     * `:set diffopt+=indent-heuristic`
+  * [Moving things into .vim](https://vimways.org/2018/from-vimrc-to-vim/)
+  * [Vim Tags](https://vimways.org/2018/you-should-be-using-tags-in-vim/)
+    * [Effortless Ctags with Git](https://tbaggery.com/2011/08/08/effortless-ctags-with-git.html)
 
