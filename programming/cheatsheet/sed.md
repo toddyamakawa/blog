@@ -62,4 +62,8 @@ sed '/baz/s/foo/bar/g'
 ```bash
 sed '/baz/!s/foo/bar/g'
 ```
+###### Join Lines
+```bash
+sed ':a;N;$!ba;s/\n/,/g'
+```
 
