@@ -39,6 +39,9 @@
     * Quickly resize windows to predefined sizes
     * Freeware
 
+### Security
+  * [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
+    * Allows full control over Windows 10 privacy settings in a simple interface
 
 ### Web Browsers
   * [Google Chrome](https://www.google.com/chrome/)
